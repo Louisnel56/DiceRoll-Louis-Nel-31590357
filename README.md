@@ -1,5 +1,7 @@
 # DiceRoll-Louis-Nel-31590357
 
+Initial Commit
+
 Situation Description
 The Python Dice Roll Game is a straightforward console game that lets players roll a fictitious six-sided die. 
 Users of the game have a pleasant and engaging way to simulate the excitement of rolling dice without using actual dice.
