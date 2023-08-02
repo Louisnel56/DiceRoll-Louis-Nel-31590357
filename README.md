@@ -1,6 +1,6 @@
 # DiceRoll-Louis-Nel-31590357
 
-Initial Commit
+Initial Commit 2
 
 Situation Description
 The Python Dice Roll Game is a straightforward console game that lets players roll a fictitious six-sided die. 
